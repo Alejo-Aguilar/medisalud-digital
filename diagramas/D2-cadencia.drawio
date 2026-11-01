@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" type="device">
+  <diagram name="Cadencia" id="D2">
+    <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="t" value="Cadencia del proceso — sprints de 2 semanas e hito gerencial cada 4" style="text;html=1;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="1090" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="st" value="La longitud del sprint se deriva de la restricción organizacional de reporte (RE3), no del marco de referencia" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="48" width="1090" height="20" as="geometry" />
+        </mxCell>
+
+        <mxCell id="axis" value="" style="shape=line;html=1;strokeColor=#999999;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="1010" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="w0" value="Semana 1" style="text;html=1;align=center;fontSize=10;fontColor=#666666;" vertex="1" parent="1"><mxGeometry x="90" y="95" width="100" height="20" as="geometry" /></mxCell>
+        <mxCell id="w2" value="Semana 2" style="text;html=1;align=center;fontSize=10;fontColor=#666666;" vertex="1" parent="1"><mxGeometry x="215" y="95" width="100" height="20" as="geometry" /></mxCell>
+        <mxCell id="w3" value="Semana 3" style="text;html=1;align=center;fontSize=10;fontColor=#666666;" vertex="1" parent="1"><mxGeometry x="340" y="95" width="100" height="20" as="geometry" /></mxCell>
+        <mxCell id="w4" value="Semana 4" style="text;html=1;align=center;fontSize=10;fontColor=#666666;" vertex="1" parent="1"><mxGeometry x="465" y="95" width="100" height="20" as="geometry" /></mxCell>
+        <mxCell id="w5" value="Semana 5" style="text;html=1;align=center;fontSize=10;fontColor=#666666;" vertex="1" parent="1"><mxGeometry x="600" y="95" width="100" height="20" as="geometry" /></mxCell>
+        <mxCell id="w6" value="Semana 6" style="text;html=1;align=center;fontSize=10;fontColor=#666666;" vertex="1" parent="1"><mxGeometry x="725" y="95" width="100" height="20" as="geometry" /></mxCell>
+        <mxCell id="w7" value="Semana 7" style="text;html=1;align=center;fontSize=10;fontColor=#666666;" vertex="1" parent="1"><mxGeometry x="850" y="95" width="100" height="20" as="geometry" /></mxCell>
+        <mxCell id="w8" value="Semana 8" style="text;html=1;align=center;fontSize=10;fontColor=#666666;" vertex="1" parent="1"><mxGeometry x="975" y="95" width="100" height="20" as="geometry" /></mxCell>
+
+        <mxCell id="hlbl" value="HITO GERENCIAL — cada 4 semanas" style="text;html=1;align=left;fontSize=11;fontStyle=1;fontColor=#9A5B00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="155" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h1" value="HITO 1&#10;Informe + Mesa de apuestas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE0B2;strokeColor=#E8A33D;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="500" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="h2" value="HITO 2&#10;Informe + Mesa de apuestas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE0B2;strokeColor=#E8A33D;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="180" width="500" height="55" as="geometry" />
+        </mxCell>
+
+        <mxCell id="slbl" value="SPRINTS — 2 semanas" style="text;html=1;align=left;fontSize=11;fontStyle=1;fontColor=#1B3F8B;" vertex="1" parent="1">
+          <mxGeometry x="80" y="255" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s1" value="SPRINT 1&#10;genera evidencia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C9DAF8;strokeColor=#3B6FD4;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="245" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="s2" value="SPRINT 2&#10;permite corregir antes de reportar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8C4F0;strokeColor=#3B6FD4;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="280" width="245" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="s3" value="SPRINT 3&#10;genera evidencia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C9DAF8;strokeColor=#3B6FD4;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="280" width="245" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="s4" value="SPRINT 4&#10;permite corregir antes de reportar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8C4F0;strokeColor=#3B6FD4;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="845" y="280" width="245" height="55" as="geometry" />
+        </mxCell>
+
+        <mxCell id="buf" value="▲ CICLO DE AMORTIGUACIÓN — este margen es la razón del sprint de 2 semanas. Con sprints de 4, el cierre coincidiría con el hito y no habría oportunidad de corregir." style="text;html=1;align=center;fontSize=10;fontStyle=1;fontColor=#1B3F8B;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="1010" height="20" as="geometry" />
+        </mxCell>
+
+        <mxCell id="rlbl" value="REFINAMIENTO CON CLIENTE — semanal (adaptación A03)" style="text;html=1;align=left;fontSize=11;fontStyle=1;fontColor=#1E5E3A;" vertex="1" parent="1">
+          <mxGeometry x="80" y="375" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r1" value="R" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CDEBD7;strokeColor=#2E8B57;fontSize=10;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="190" y="398" width="34" height="34" as="geometry" /></mxCell>
+        <mxCell id="r2" value="R" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CDEBD7;strokeColor=#2E8B57;fontSize=10;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="315" y="398" width="34" height="34" as="geometry" /></mxCell>
+        <mxCell id="r3" value="R" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CDEBD7;strokeColor=#2E8B57;fontSize=10;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="440" y="398" width="34" height="34" as="geometry" /></mxCell>
+        <mxCell id="r4" value="R" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CDEBD7;strokeColor=#2E8B57;fontSize=10;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="565" y="398" width="34" height="34" as="geometry" /></mxCell>
+        <mxCell id="r5" value="R" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CDEBD7;strokeColor=#2E8B57;fontSize=10;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="700" y="398" width="34" height="34" as="geometry" /></mxCell>
+        <mxCell id="r6" value="R" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CDEBD7;strokeColor=#2E8B57;fontSize=10;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="825" y="398" width="34" height="34" as="geometry" /></mxCell>
+        <mxCell id="r7" value="R" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CDEBD7;strokeColor=#2E8B57;fontSize=10;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="950" y="398" width="34" height="34" as="geometry" /></mxCell>
+        <mxCell id="r8" value="R" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CDEBD7;strokeColor=#2E8B57;fontSize=10;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="1050" y="398" width="34" height="34" as="geometry" /></mxCell>
+
+        <mxCell id="klbl" value="CARRIL KANBAN — flujo continuo, 20% de capacidad reservada, WIP máx. 3" style="text;html=1;align=left;fontSize=11;fontStyle=1;fontColor=#1E5E3A;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kb" value="Trabajo no planificado: incidencias en producción · bloqueos operativos de sede · requerimientos normativos urgentes&#10;Se mide como % de capacidad consumida (indicador M03). Si supera el 25%, se escala al hito gerencial." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F4EA;strokeColor=#2E8B57;strokeWidth=2;fontSize=10;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="475" width="1010" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="elbl" value="EVENTOS DEL SPRINT" style="text;html=1;align=left;fontSize=11;fontStyle=1;fontColor=#4B1D82;" vertex="1" parent="1">
+          <mxGeometry x="80" y="545" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ev" value="Sprint Planning (3 h) → reserva 20% Kanban + 15% deuda técnica y cumplimiento&#10;Daily Scrum (15 min) → con registro escrito previo en el tablero, por el componente remoto (adaptación A04)&#10;Sprint Review (1,5 h) → incluye evidencia de uso real del incremento anterior&#10;Sprint Retrospective (1 h) → incluye revisión del avance en la rampa de adopción" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3E8FD;strokeColor=#7B3FBF;strokeWidth=2;fontSize=10;align=left;spacingLeft=12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="570" width="1010" height="80" as="geometry" />
+        </mxCell>
+
+        <mxCell id="just" value="JUSTIFICACIÓN DE LA LONGITUD DEL SPRINT&#10;&#10;Sprint de 4 semanas → el cierre coincide con el hito gerencial. Se reporta el resultado sin margen de corrección; un sprint fallido se convierte en un informe desfavorable.&#10;Sprint de 2 semanas → cada hito contiene dos sprints. El primero genera evidencia, el segundo corrige. ADOPTADO.&#10;Sprint de 1 semana → el costo fijo de los eventos resulta desproporcionado para 8 personas con experiencia heterogénea y componente remoto." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#C9A227;strokeWidth=2;fontSize=10;align=left;spacingLeft=12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="670" width="1010" height="100" as="geometry" />
+        </mxCell>
+
+        <mxCell id="note" value="Nota. Elaboración propia. R = refinamiento semanal con representantes del cliente y de las sedes." style="text;html=1;align=left;fontSize=10;fontColor=#666666;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="780" width="1010" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
